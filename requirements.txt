@@ -1,7 +1,9 @@
 numpy
 pandas
+
 tensorflow
 keras
+
 scikit-learn
 matplotlib
-flask
+seaborn
